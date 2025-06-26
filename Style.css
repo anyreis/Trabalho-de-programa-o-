@@ -1,0 +1,8 @@
+a,
+.btn-link:hover {
+  color: var(preto, azul, verde, vermelho);
+}
+
+a:hover {
+  color: var(preto, branco, vermelho, azul);
+}
